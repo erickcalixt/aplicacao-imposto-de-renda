@@ -47,10 +47,10 @@ O arquivo atua como um banco de dados relacional simples, dividido em quatro aba
 | Campo | Descrição | Regras de Preenchimento |
 | :--- | :--- | :--- |
 | **DATA** | Data do recebimento do valor. | Formato `YYYY-MM-DD` (ex: 2026-02-13). |
-| **CATEGORA*** | Classificação da origem da receita. | Valores mapeados: `FREELANCER`, `HOLERITE`, `CNPJ`. |
+| **CATEGORIA*** | Classificação da origem da receita. | Valores mapeados: `FREELANCER`, `HOLERITE`, `CNPJ`. |
 | **VALOR** | Valor financeiro da entrada. | Formato numérico bruto (ex: `3000`). |
 
-*\*Nota: Recomenda-se corrigir o cabeçalho no arquivo original de "CATEGORA" para "CATEGORIA".*
+
 
 ---
 
