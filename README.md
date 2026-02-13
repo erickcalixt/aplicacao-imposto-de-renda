@@ -1,4 +1,4 @@
-# Documentação de Sistema: Lion App
+# Lion App
 
 Esta documentação descreve a estrutura e o propósito do arquivo `Lion App.xlsx`, um sistema de organização e controle financeiro projetado para facilitar o preparo e a declaração do **Imposto de Renda da Pessoa Física (IRPF)**.
 
